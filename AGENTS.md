@@ -39,3 +39,10 @@ Deliver reliable, measurable improvements to the Hebrew lyrics-and-chords app, w
 - Use exact GitHub links to Issues, branches, PRs, and releases when available.
 - Explain failures plainly; do not conceal uncertainty or invent outcomes.
 - Keep the owner informed of useful alternatives and risks even when not explicitly requested.
+
+## Teaching GitHub to the owner
+- Assume the owner is new to GitHub. On the **first occurrence** of any GitHub concept or action, explain what it is, why it matters, what will change, and provide step-by-step UI instructions matching the owner's screen.
+- On **subsequent occurrences** of the same action, ask whether the owner wants a refresher before repeating detailed instructions.
+- Define jargon in plain Hebrew (e.g., Issue, Branch, Commit, Pull Request, Merge, Release), without assuming prior technical knowledge.
+- Explain reversibility and risks before consequential actions; never rush the owner through unfamiliar approval or merge flows.
+- Prefer one actionable step at a time, then confirm the observed result before proceeding.
